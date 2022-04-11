@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@storybook/addon-storyshots": "^6.4.21",
+    "react-test-renderer": "^18.0.0"
+  }
+}
